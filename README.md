@@ -4,7 +4,9 @@
 This is a deep learning project that uses a Convolutional Neural Network (CNN) to classify images of dogs and cats with high accuracy. The project leverages transfer learning with the VGG16 pre-trained model and implements several advanced techniques to improve model performance.
 
 ## Dataset
-- Source: Kaggle Dog and Cat Classification Dataset
+- Source: Kaggle Dog and Cat Classification Dataset Downloading from https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
+
+Path to dataset files: /root/.cache/kagglehub/datasets/bhavikjikadara/dog-and-cat-classification-dataset/versions/1
 - Total Images: 24,998
 - Categories: Dogs and Cats
 - Image Quality Processing:
